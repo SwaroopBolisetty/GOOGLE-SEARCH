@@ -1,3 +1,5 @@
 # GOOGLE-SEARCH
 
-##  pip install pywhatkit  
+## First of all install pywhatkit in jupyter notebook
+
+### pip install pywhatkit  
