@@ -2,4 +2,4 @@
 
 ## First of all install pywhatkit in jupyter notebook
 
-### pip install pywhatkit  
+# pip install pywhatkit  
